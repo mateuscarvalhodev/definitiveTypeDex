@@ -1,3 +1,5 @@
+Aplicação em construção
+
 Pokedex com Next.js, TypeScript, API Rest, Axios e Tailwind
 Este projeto é uma aplicação web de uma Pokedex, onde é possível buscar informações sobre os Pokémons utilizando a PokéAPI (https://pokeapi.co/). A aplicação foi desenvolvida utilizando Next.js com TypeScript, aplicando conceitos de API Rest, Axios e Tailwind.
 
