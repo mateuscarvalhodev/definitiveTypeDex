@@ -1,18 +1,18 @@
-Aplicação em construção
+### Aplicação em construção
 
-Pokedex com Next.js, TypeScript, API Rest, Axios e Tailwind
+<h1>Pokedex com Next.js, TypeScript, API Rest, Axios e Tailwind</h1>
 Este projeto é uma aplicação web de uma Pokedex, onde é possível buscar informações sobre os Pokémons utilizando a PokéAPI (https://pokeapi.co/). A aplicação foi desenvolvida utilizando Next.js com TypeScript, aplicando conceitos de API Rest, Axios e Tailwind.
 
 Pré-requisitos
 Node.js (versão 14 ou superior)
-NPM ou Yarn
+NPM
 Instalação
 Faça o download ou clone o repositório;
 Abra o terminal e acesse a pasta do projeto;
-Execute o comando npm install ou yarn para instalar as dependências do projeto.
+Execute o comando npm install ou npm i para instalar as dependências do projeto.
 Executando a aplicação
 No terminal, acesse a pasta do projeto;
-Execute o comando npm run dev ou yarn dev;
+Execute o comando npm run dev;
 Abra o navegador e acesse http://localhost:3000.
 Funcionalidades
 Buscar informações sobre Pokémons por nome ou número;
@@ -23,8 +23,7 @@ TypeScript
 API Rest
 Axios
 Tailwind CSS
-Sobre as tecnologias
-Next.js
+<h1> Sobre as tecnologias </h1>
 Next.js é um framework web para React que oferece uma série de recursos para tornar o desenvolvimento web mais fácil e rápido. Ele possui suporte integrado para SSR (Server Side Rendering) e SSG (Static Site Generation), entre outras funcionalidades.
 
 TypeScript
